@@ -4,7 +4,7 @@ import { useState } from "react"
 
 function Home(){
 
-     const usersCount = 15 ;
+     const usersCount = 20 ;
 
 
     
@@ -21,7 +21,7 @@ function Home(){
         <p>{I18n("endMassage")}</p>
 
           <p>
-            {I18n("useStatMassage")}
+            {I18n("useStatMassage" , "<studentcount>" , usersCount)}
         </p> 
 
         <select
