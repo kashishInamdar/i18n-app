@@ -1,0 +1,31 @@
+.card{
+     margin: 50px auto;
+     border: 2px solid black;
+     width: 500px;
+     padding: 20px;
+     background-image: url("./../wp6956762.webp");
+     background-size:100% ;
+     position: relative;
+}
+.change-lang{
+    position: absolute;
+    top : 5px;
+    right: 20px;
+    font-weight: 600;
+}
+.font6{
+    font-weight: 600;
+}
+
+.select-box{
+    position: absolute;
+    padding: 2px 10px;
+    top : 45px;
+    right: 20px;
+    font-weight: 600;
+}
+.title{
+    text-align: center;
+    padding: 20px;
+    background-image: url("./../wp6956762.webp");
+}

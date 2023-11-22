@@ -4,20 +4,23 @@
         "normalMessage": "We hope you enjoy learning React.",
         "greetingMessage":"Have a great day!",
         "endMassage" : "We learned how to use I18n in React",
-        "useStatMassage" : " <studentcount> users are learning in this session "
+        "useStatMassage" : " <studentcount> users are learning in this session ",
+        "language" : "Change Language"
     },
     "mr":{
         "welcomeMessage": "स्वागत आहे. !" ,
         "normalMessage": "आशा आहे की  तुम्हाला  रिऍक्ट  शिकण्यात मजा येत असेल.",
         "greetingMessage":"आपला दिवस चांगला जावो.",
         "endMassage" : "आम्ही रिऍक्ट मधे I18n चा वापर कसा करायचा हे शिकलो ",
-        "useStatMassage" : " या session <studentcount> विद्यार्थी शिकत आहेत "
+        "useStatMassage" : " या session <studentcount> विद्यार्थी शिकत आहेत ",
+        "language" : "भाषा बदला"
     },
     "hi":{
         "welcomeMessage":" आपका स्वागत है | ",
         "normalMessage": "आशा है कि आपको रिएक्ट सीखने में मज़ा आ रहा होगा |",
         "greetingMessage":"आपका दिन अच्छा हो |",
         "endMassage" : "हमने रिऍक्ट मधे I18n का इस्तमाल  केसा करणा चाहिये ये सीखा ",
-        "useStatMassage" : "इस  session <studentcount> विद्यार्थी   सीख रहे है    "
+        "useStatMassage" : "इस  session <studentcount> विद्यार्थी   सीख रहे है    ",
+        "language" : "भाषा बदले"
     }
 }
